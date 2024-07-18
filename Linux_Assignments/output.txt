@@ -1,0 +1,6 @@
+This is an example text file.
+The new_text appears several times in this file.
+Let's see if the new_text will be replaced correctly.
+This new_text should also be replaced.
+And finally, this is the last occurrence of new_text.
+

@@ -1,0 +1,4 @@
+2024-05-15 04:15:50 INFO Some informational message
+2024-05-15 04:16:01 ERROR An error occurred in the application
+2024-05-15 04:17:05 WARN This is a warning message
+2024-05-15 04:18:30 ERROR Another error message
